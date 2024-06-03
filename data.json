@@ -1,17 +1,16 @@
 {
     "user": {
         "fullName": "orifha matshidza",
-        "photo": "picture.jpg",
+        "photo": "./images/picture.jpg",
         "phone": "0724161622",
         "email": "orifhamatshidze@gmail.com"
     },
     "education": {
         "institutionName": "university of venda",
-        "photo": "university of venda.jpg",
+        "photo": "./images/university of venda.jpg",
         "description": "barchelor of commerce in economics",
         "yearObtained": "2021",
         "institutionName_1": "university of venda",
-        "photo_1": "university of venda.jpg",
         "description_1": "post graduate certificate in education",
         "yearObtained_1": "2022"
     },
