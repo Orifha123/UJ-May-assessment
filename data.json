@@ -1,0 +1,47 @@
+{
+    "user": {
+        "fullName": "orifha matshidza",
+        "photo": "picture.jpg",
+        "phone": "0724161622",
+        "email": "orifhamatshidze@gmail.com"
+    },
+    "education": {
+        "institutionName": "university of venda",
+        "photo": "university of venda.jpg",
+        "description": "barchelor of commerce in economics",
+        "yearObtained": "2021",
+        "institutionName_1": "university of venda",
+        "photo_1": "university of venda.jpg",
+        "description_1": "post graduate certificate in education",
+        "yearObtained_1": "2022"
+    },
+    "experience": {
+        "company": "Tshilivho primary school",
+        "position": "Assistant Teacher",
+        "dates": "Nov 2021 - Aug 2022",
+        "responsibilities": "Providing learning lesson on behalf of the supervisor and monitoring students. marking books. managing the classroom",
+        "company_1": "Thivhilaeli Secondary School",
+        "position_1": "Student teacher",
+        "dates_1": "Aug 2021-Nov 2021",
+        "responsibilities_1": "Evaluate and grade students' class work, assignments, and papers. Evaluate student performance and provide feedback. Maintaining student attendance records, grades, and other required records"
+    },
+    "skills": {
+        "skill_1": "python",
+        "skill_2": "javaScript",
+        "skill_3": "html",
+        "skill_4": "css",
+        "skill_5": "Ability to plan tasks",
+        "skill_6": "Microsoft package",
+        "skill_7": "Good communication"
+    },
+    "references": {
+        "name_1": "MR MAMMBABADA",
+        "contact_1": "0824259528",
+        "position_1": "(HOD)",
+        "company_1": "TSHILIVHO PRIMARY SCHOOL",
+        "name_2": "MUNYAI JS",
+        "contact_2": "0764725676",
+        "position_2": "( principal )",
+        "company_2": "TSHILIVHO PRIMARY SCHOOL"
+    }
+}

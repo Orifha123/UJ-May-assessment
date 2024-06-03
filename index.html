@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="bio">
+        <h1>My Cv</h1>
+        <img src="images\picture.jpg" width="200">
+        <h3>name</h3>
+        {{user.fullName}}
+
+        <h3>contact</h3>
+        {{user.phone}}
+        <h3>email</h3>
+        {{user.email}}
+    </div>
+    <div class="education">
+        <h2>education</h2>
+        {{education.institutionName}}
+        <h3>qualification</h3>
+        {{education.description}}
+        <h3>year obtained</h3>
+        {{education.yearObtained}}
+
+        <h2>education 2</h2>
+        {{education.institutionName_1}}
+        <h3>qualification</h3>
+        {{education.description_1}}
+        <h3>year obtained</h3>
+        {{education.yearObtained_1}}
+    </div>
+
+
+    <h2>experience</h2>
+
+    <div class="experience">
+        {{experience.company}}
+        <h3>company</h3>
+        {{experience.position}}
+        <h3>dates</h3>
+        {{experience.dates}}
+        <h3>responsibilities</h3>
+        {{experience.responsibilities}}
+
+        <h2>experience 2</h2>
+        {{experience.company_1}}
+
+        <h3>company</h3>
+        {{experience.position_1}}
+        <h3>dates</h3>
+        {{experience.dates_1}}
+        <h3>responsibilities</h3>
+        {{experience.responsibilities_1}}
+    </div>
+    <div class="skills">
+        <h2>skills</h2>
+        <li>{{skills.skill_1}}</li>
+        <li>{{skills.skill_2}}</li>
+        <li>{{skills.skill_3}}</li>
+        <li>{{skills.skill_4}}</li>
+        <li>{{skills.skill_5}}</li>
+        <li>{{skills.skill_6}}</li>
+        <li>{{skills.skill_7}}</li>
+    </div>
+    <div class="reference">
+        <h2>references</h2>
+        {{references.name_1}}
+        <h3>contact</h3>
+        {{references.contact_1}}
+        <h3>position</h3>
+        {{references.position_1}}
+        <h3>company</h3>
+        {{references.company_1}}
+
+        <h2>reference 2</h2>
+        {{references.name_2}}
+        <h3>contact</h3>
+        {{references.contact_2}}
+        <h3>position</h3>
+        {{references.position_2}}
+        <h3>company</h3>
+        {{references.company_2}}
+
+    </div>
+
+
+
+
+
+
+
+
+</body>
+
+</html>

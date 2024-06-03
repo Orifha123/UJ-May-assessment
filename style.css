@@ -1,0 +1,24 @@
+body {
+background-color:grey;
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+}
+.education{
+    display: ;
+    text-align: center;
+} 
+.skills{
+    text-align: justify;
+}
+.bio{
+    background-color: blueviolet;
+    border-radius: 0.40cm;
+}
+.experience{
+    background-color: aquamarine;
+    border-radius: 0.40em;
+}
+.reference{
+    background-color: aquamarine;
+    border-radius: 0.40em;
+}
